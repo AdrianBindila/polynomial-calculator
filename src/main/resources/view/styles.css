@@ -1,0 +1,40 @@
+#main{
+    -fx-background-color: #e0fcff;
+}
+#MidButPane{
+    -fx-alignment: center;
+}
+#PolyIndicator{
+    -fx-font-size: 20;
+}
+#OpIndicator{
+    -fx-font-size: 20;
+}
+#TextBox{
+    -fx-font-size: 20;
+    -fx-background-insets: 0px ;
+}
+#Result{
+    -fx-background-color: transparent ;
+    -fx-background-insets: 0px ;
+    -fx-font-size: 20;
+}
+.label{
+    -fx-font-size: 20;
+}
+.button {
+    -fx-font-size: 20;
+    -fx-pref-height: 1;
+    -fx-pref-width: 105;
+    -fx-background-radius: 0;
+    -fx-background-color: #90f2ff;
+    -fx-column-halignment: center;
+    -fx-row-valignment: center;
+
+}
+.button:hover{
+    -fx-background-color: #6eb6ff;
+}
+.button:pressed{
+    -fx-background-color: #7098da;
+}
